@@ -1,5 +1,5 @@
-https://manage.broadcastcloud.tv/
-https://staging.broadcastcloud.tv/
-https://ikonik-stage.oxagile.com/
-https://ikonik-qa1.oxagile.com/
-http://ikonik-dev1.oxagile.com/
+{"link":"https://manage.broadcastcloud.tv",
+"link":"https://staging.broadcastcloud.tv",
+"link":"https://ikonik-stage.oxagile.com",
+"link":"https://ikonik-qa1.oxagile.com",
+"link":"http://ikonik-dev1.oxagile.com"}
